@@ -25,7 +25,9 @@ https://watch.screencastify.com/v/76BzBckiQORM2fhdbcdA
 
 ## Photos<br>
  https://github.com/jlhickey/My-React-Portfolio/blob/main/portf1.jpg
- 
+ https://github.com/jlhickey/My-React-Portfolio/blob/main/port2.jpg 
+
+
 ## REPOSITORIES
 
 - Project Repo https://github.com/jlhickey/My-React-Portfolio

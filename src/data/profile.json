@@ -1,0 +1,182 @@
+{
+  "Name": "Joanne Hickey",
+  "Description": "Full Stack Web Development",
+  "Address": "Ottawa, ON, Canada",
+  "School": "Carleton University",
+  "SocialMedias": [
+    "https://github.com/jlhickey",
+    "https://www.linkedin.com/in/joanne-hickey-7192b4223"
+  ],
+  "experiences": [
+    {
+      "companyName": "Public Health Ontario",
+      "url": "https://www.publichealthontario.ca/",
+      "roles": [
+        {
+          "title": "Labortory Attendant 2",
+          "description": "Help to keep the citrix based computer system and locl printers",
+          "startDate": "2001-03",
+          "currentJob": true,
+          "location": "Ottawa, ON, Canada"
+        }
+      ]
+    },
+    {
+      "companyName": "Public Health Ontario",
+      "url": "https://www.publichealthontario.ca/",
+      "roles": [
+        {
+          "title": "Data Entry",
+          "description": "Entered confidential and time sensitive data",
+          "startDate": "1998-02",
+          "endDate": "2001-03",
+          "location": "Ottawa, ON, Canada"
+        }
+      ]
+    }
+  ],
+  "Skills": [
+    {
+      "Area": "Web-Based Application Development",
+      "SkillSet": [
+        {
+          "Name": "JavaScript ",
+          "Hot": true
+        },
+        {
+          "Name": "HTML",
+          "Hot": true
+        },
+        {
+          "Name": "CSS ",
+          "Hot": true
+        },
+        {
+          "Name": "React",
+          "Hot": true
+        },
+        {
+          "Name": "JQuery",
+          "Hot": true
+        },
+        {
+          "Name": "NPM",
+          "Hot": true
+        },
+        {
+          "Name": "WebPack",
+          "Hot": true
+        }
+      ]
+    },
+    {
+      "Area": "Databases",
+      "SkillSet": [
+        {
+          "Name": "MongoDB",
+          "Hot": true
+        },
+        {
+          "Name": "MySQL",
+          "Hot": true
+        },
+        {
+          "Name": "Sequelize",
+          "Hot": true
+        }
+      ]
+    },
+    {
+      "Area": "Software Development Tools and Concepts",
+      "SkillSet": [
+        {
+          "Name": "MERN",
+          "Hot": true
+        },
+        {
+          "Name": "Model View Controller (MVC)",
+          "Hot": true
+        },
+        {
+          "Name": "Progressive Web Apps (PWA)",
+          "Hot": true
+        }
+      ]
+    },
+    {
+      "Area": "Test Driven Development",
+      "SkillSet": [
+        {
+          "Name": "Jest",
+          "Hot": true
+        }
+      ]
+    },
+    {
+      "Area": "Platforms",
+      "SkillSet": [
+        {
+          "Name": "Windows",
+          "Hot": true
+        },
+        {
+          "Name": "Mac OS",
+          "Hot": true
+        }
+      ]
+    }
+  ],
+  "Projects": [
+    {
+      "Name": "PixaRadar",
+      "Description": "A program that will choose a movie for you based on the time of day, and your mood.",
+      "ScreenShotURL": "../img/demo.jpeg",
+      "ProjectLink": "https://github.com/jlhickey/Project1",
+      "GithubLink": "https://github.com/jlhickey"
+    },
+    {
+      "Name": "Password Generator",
+      "Description": "allow someone to get a new, and secure password every time.",
+      "ProjectLink": "https://github.com/jlhickey/password-generator",
+      "GithubLink": "https://github.com/jlhickey"
+    },
+    {
+      "Name": "Work Day Scheduler ",
+      "Description": "A scheduler for people who need to keep their affairs in order.",
+      "ScreenShotURL": "../img/myworkday.jpeg",
+      "ProjectLink": "https://github.com/jlhickey/Work-Day-Scheduler/",
+      "GithubLink": "https://github.com/jlhickey/"
+    },
+    {
+      "Name": "n-Abl",
+      "Description": "An app that share mental health issue or challenge as a post so that people can obtain support from other members to help me cope with or overcome it..",
+      "ScreenShotURL": "../img/nAbl.jpg",
+      "ProjectLink": "https://github.com/askarrizvi/n-abl",
+      "GithubLink": "https://github.com/jlhickey/"
+    },
+    {
+      "Name": "MERN Book Search",
+      "Description": "This app uses google to pull up any and all books that are input into the search bar.",
+      "ScreenShotURL": "../img/book1/",
+      "ProjectLink": " https://get-it-done-budget.herokuapp.com/",
+      "GithubLink": "https://github.com/jlhickey/"
+    },
+    {
+      "Name": "Budget Tracker",
+      "Description": "An app that allows track all expences.",
+      "ScreenShotURL": "../img/screenshot.jpg",
+      "ProjectLink": " https://get-it-done-budget.herokuapp.com/",
+      "Github Link": "https://github.com/jlhickey"
+    }
+  ],
+  "Education": [
+    {
+      "SchoolName": "Carleton University",
+      "Date": "2021",
+      "Degree": "Coding Bootcamp",
+      "Location": "Ottawa, ON, Canada",
+      "SchoolImage": "https://bootcamp.jpg",
+      "SchoolLink": "https://admissions.carleton.ca/"
+    }
+  ]
+}

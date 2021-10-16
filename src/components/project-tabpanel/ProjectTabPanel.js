@@ -25,7 +25,7 @@ class ProjectTabPanel extends Component {
   };
 
   removeRaised = () => {
-    this.stState({ raised: "" });
+    this.setState({ raised: "" });
   };
 
   render() {

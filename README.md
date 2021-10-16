@@ -21,12 +21,10 @@ The app used to run are
 
 
 ## Photos<br>
- https://github.com/jlhickey/MERN-book-search/blob/main/book1.jpg<br>
- https://github.com/jlhickey/MERN-book-search/blob/main/book2.jpg
- 
+ https://github.com/jlhickey/My-React-Portfolio/blob/main/portfolio.jpg 
 ## REPOSITORIES
 
 - Project Repo https://github.com/jlhickey/My-React-Portfolio
 - GitHub https://github.com/jlhickey
-- Heroku  https://https://facetious-books.herokuapp.com/
+- Heroku   
 

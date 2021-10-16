@@ -4,10 +4,10 @@
 
 
 ## Table of Contents
-  [User Story](#UserStory)
-  [Mock up](#Mockup)
-  [Photos](#Photos)
-  [My Repositories](#MyRepositories)
+  1. [User Story](#UserStory)
+  2. [Mock up](#Mockup)
+  3. [Photos](#Photos)
+  4. [My Repositories](#MyRepositories)
 
 
 ## User Story

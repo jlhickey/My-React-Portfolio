@@ -5,6 +5,7 @@
 
 ## Table of Contents
   [User Story](#UserStory)
+  [Mock up](#Mockup)
   [Photos](#Photos)
   [My Repositories](#MyRepositories)
 
@@ -15,10 +16,12 @@ I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
 
 ## Installation
-The app used to run are
+The app used to run  
 *  React
-*  Heroku
+ 
 
+## Mock up  
+https://watch.screencastify.com/v/76BzBckiQORM2fhdbcdA
 
 ## Photos<br>
  https://github.com/jlhickey/My-React-Portfolio/blob/main/portfolio.jpg 

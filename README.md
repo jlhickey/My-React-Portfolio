@@ -31,6 +31,5 @@ https://watch.screencastify.com/v/ePyiqSPFWmBjxzS7Wcdj
 ## REPOSITORIES
 
 - Project Repo https://github.com/jlhickey/My-React-Portfolio
-- GitHub https://github.com/jlhickey
-- Heroku   
+- GitHub https://github.com/jlhickey  
 

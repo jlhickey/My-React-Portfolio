@@ -24,7 +24,7 @@ The app used to run
 https://watch.screencastify.com/v/ePyiqSPFWmBjxzS7Wcdj
 
 ## Photos<br>
- https://github.com/jlhickey/My-React-Portfolio/blob/main/portf1.jpg<br>
+ https://github.com/jlhickey/My-React-Portfolio/blob/main/pic1.jpg<br>
  https://github.com/jlhickey/My-React-Portfolio/blob/main/port2.jpg 
 
 

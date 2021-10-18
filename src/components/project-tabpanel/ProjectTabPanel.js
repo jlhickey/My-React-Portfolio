@@ -51,11 +51,11 @@ class ProjectTabPanel extends Component {
                     title={project.Name}
                     raised={this.state.raised === project.Name}
                   >
-                    <CardMedia
-                      style={{ width: "100%", height: 0, paddingTop: 350 }}
-                      title={project.Name} 
-                      src={project.ScreenShotURL}
-                    />
+//                     <CardMedia
+//                       style={{ width: "100%", height: 0, paddingTop: 350 }}
+//                       title={project.Name} 
+//                       src={project.ScreenShotURL}
+//                     />
                     <CardContent title={project.Name}>
                       <Typography
                         className={styles.projectName}

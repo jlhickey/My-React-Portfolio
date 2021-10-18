@@ -21,7 +21,7 @@ The app used to run
  
 
 ## Mock up  
-https://watch.screencastify.com/v/76BzBckiQORM2fhdbcdA
+https://watch.screencastify.com/v/ePyiqSPFWmBjxzS7Wcdj
 
 ## Photos<br>
  https://github.com/jlhickey/My-React-Portfolio/blob/main/portf1.jpg<br>

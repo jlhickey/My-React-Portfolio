@@ -1,9 +1,16 @@
 import pixaRadar from "../img/demo.jpeg"
 
-export const projects = 
-
+export const projects = pixaRadar;
 
 [
+
+        {
+            Name: "Drinkstagram",
+            Description: "This cocktail program will pull up all the information you require.",
+            ScreenShotURL: pixaRadar,
+        ProjectLink: "https://nameless-spire-26834.herokuapp.com/",
+        GithubLink: "https://github.com/TylerLadas/Drinkstagram"
+        },
     {
         Name: "PixaRadar",
         Description: "A program that will choose a movie for you based on the time of day, and your mood.",

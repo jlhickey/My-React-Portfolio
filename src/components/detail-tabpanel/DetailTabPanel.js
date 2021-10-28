@@ -3,7 +3,7 @@ import AppBar from "@material-ui/core/AppBar";
 import Tabs from "@material-ui/core/Tabs";
 import Tab from "@material-ui/core/Tab";
 import { withStyles } from "@material-ui/core/styles";
-import ExperiencePanel from "../experience-panel/ExperiencePanel";
+import ExperiencePanel from "../src/components/experience-panel/ExperiencePanel";
 import SkillPanel from "../src/components/skill-panel/SkillPanel";
 // import EducationPanel from "../education-panel/EducationPanel";
 import ProjectTabPanel from "../src/components/project-tabpanel/ProjectTabPanel";

@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import InfoPanel from "./components/info-panel/InfoPanel";
-import DetailTabPanel from "./components/detail-tabpanel/DetailTabPanel";
+import InfoPanel from "..src/components/info-panel/InfoPanel";
+import DetailTabPanel from "./src/components/detail-tabpanel/DetailTabPanel";
 // NODE_ENV = production node app.js;
 
 class App extends Component {

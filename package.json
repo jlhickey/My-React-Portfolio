@@ -18,7 +18,8 @@
     "react-social-icons": "^4.1.0",
     "react-swipeable-views": "^0.13.9",
     "reactstrap": "^8.4.1"
-  },
+      "nodejs-env":"^0.0.1"
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

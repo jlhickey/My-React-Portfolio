@@ -15,7 +15,7 @@ const isLocalhost = Boolean(
     //if (publicUrl.origin !== window.location.origin) {
       
       return;
-    }
+
 
     window.addEventListener('load', () => {
       const swUrl = `${process.env.PUBLIC_URL}/service-worker.js`;

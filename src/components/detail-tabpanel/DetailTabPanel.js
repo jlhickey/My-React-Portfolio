@@ -8,7 +8,7 @@ import SkillPanel from "../src/components/skill-panel/SkillPanel";
 // import EducationPanel from "../education-panel/EducationPanel";
 import ProjectTabPanel from "../src/components/project-tabpanel/ProjectTabPanel";
 import SwipeableViews from "react-swipeable-views";
-import styles from "..src/components/DetailTabPanel.module.css";
+import styles from "../src/components/DetailTabPanel.module.css";
 
 class DetailTabPanel extends Component {
   constructor(props) {

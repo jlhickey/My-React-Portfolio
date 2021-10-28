@@ -36,7 +36,7 @@ const isLocalhost = Boolean(
         registerValidSW(swUrl, config);
       }
     });
-  }
+  
 }
 
 function registerValidSW(swUrl, config) {

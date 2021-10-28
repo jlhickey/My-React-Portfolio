@@ -4,11 +4,11 @@ import Tabs from "@material-ui/core/Tabs";
 import Tab from "@material-ui/core/Tab";
 import { withStyles } from "@material-ui/core/styles";
 import ExperiencePanel from "../experience-panel/ExperiencePanel";
-import SkillPanel from "../skill-panel/SkillPanel";
+import SkillPanel from "../src/components/skill-panel/SkillPanel";
 // import EducationPanel from "../education-panel/EducationPanel";
-import ProjectTabPanel from "../project-tabpanel/ProjectTabPanel";
+import ProjectTabPanel from "../src/components/project-tabpanel/ProjectTabPanel";
 import SwipeableViews from "react-swipeable-views";
-import styles from "./DetailTabPanel.module.css";
+import styles from "..src/components/DetailTabPanel.module.css";
 
 class DetailTabPanel extends Component {
   constructor(props) {

@@ -1,0 +1,145 @@
+{
+  "Name": "Joanne Hickey",
+  "Description": "Full Stack Web Development",
+  "Address": "Ottawa, ON, Canada",
+  "School": "Carleton University",
+  "SocialMedias": [
+    "https://github.com/jlhickey",
+    "https://www.linkedin.com/in/joanne-hickey-7192b4223"
+  ],
+  "experiences": [
+    {
+      "companyName": "Public Health Ontario",
+      "url": "https://www.publichealthontario.ca/",
+      "roles": [
+        {
+          "title": "Labortory Attendant 2",
+          "description": "Help to keep the citrix based computer system and locl printers",
+          "startDate": "2001-03",
+          "currentJob": true,
+          "location": "Ottawa, ON, Canada"
+        }
+      ]
+    },
+    {
+      "companyName": "Public Health Ontario",
+      "url": "https://www.publichealthontario.ca/",
+      "roles": [
+        {
+          "title": "Data Entry",
+          "description": "Entered confidential and time sensitive data",
+          "startDate": "1998-02",
+          "endDate": "2001-03",
+          "location": "Ottawa, ON, Canada"
+        }
+      ]
+    }
+  ],
+  "Skills": [
+    {
+      "Area": "Web-Based Application Development",
+      "SkillSet": [
+        {
+          "Name": "JavaScript ",
+          "Hot": true
+        },
+        {
+          "Name": "HTML",
+          "Hot": true
+        },
+        {
+          "Name": "CSS ",
+          "Hot": true
+        },
+        {
+          "Name": "CSS Flexbox",
+          "Hot": true
+        },
+        {
+          "Name": "React",
+          "Hot": true
+        },
+        {
+          "Name": "JQuery",
+          "Hot": true
+        },
+        {
+          "Name": "NPM",
+          "Hot": true
+        },
+        {
+          "Name": "WebPack",
+          "Hot": true
+        }
+      ]
+    },
+    {
+      "Area": "Databases",
+      "SkillSet": [
+        {
+          "Name": "MongoDB",
+          "Hot": true
+        },
+        {
+          "Name": "MySQL",
+          "Hot": true
+        },
+        {
+          "Name": "Sequelize",
+          "Hot": true
+        },
+        {
+          "Name": "Moment.js",
+          "Hot": true
+        },
+        {
+          "Name": "Graphic QL",
+          "Hot": true
+        },
+        {
+          "Name": "Mongo DB",
+          "Hot": true
+        } 
+      ]
+    },
+    {
+      "Area": "Software Development Tools and Concepts",
+      "SkillSet": [
+        {
+          "Name": "MERN",
+          "Hot": true
+        },
+        {
+          "Name": "Model View Controller (MVC)",
+          "Hot": true
+        },
+        {
+          "Name": "Progressive Web Apps (PWA)",
+          "Hot": true
+        }
+      ]
+    },
+    {
+      "Area": "Test Driven Development",
+      "SkillSet": [
+        {
+          "Name": "Jest",
+          "Hot": true
+        }
+      ]
+    },
+    {
+      "Area": "Platforms",
+      "SkillSet": [
+        {
+          "Name": "Windows",
+          "Hot": true
+        },
+        {
+          "Name": "Mac OS",
+          "Hot": true
+        }
+      ]
+    }
+  ]}
+  

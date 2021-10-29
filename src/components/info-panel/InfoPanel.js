@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Drawer from "@material-ui/core/Drawer";
-import InfoCard from "../info-card/InfoCard";
+import InfoCard from "./info-card/InfoCard.js";
 import styles from "./InfoPanel.module.css";
 
 class InfoPanel extends Component {

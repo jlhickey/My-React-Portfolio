@@ -26,11 +26,11 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 
 ## Mock up  
-![watch](https://watch.screencastify.com/v/ePyiqSPFWmBjxzS7Wcdj)
+![screen shot](https://watch.screencastify.com/v/ePyiqSPFWmBjxzS7Wcdj)
 
 ## Photos<br>
-![Screen Shot](https://github.com/jlhickey/My-React-Portfolio/blob/main/pic1.jpg)<br>
-![Screen shot](https://github.com/jlhickey/My-React-Portfolio/blob/main/pic2.jpg)
+![Screen Shot](https://github.com/jlhickey/My-React-Portfolio/blob/main/pic1.jpg)
+
 
 
 ## REPOSITORIES

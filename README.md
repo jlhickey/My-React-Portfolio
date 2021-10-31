@@ -26,7 +26,7 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 
 ## Mock up  
-![mock up](https://watch.screencastify.com/v/ePyiqSPFWmBjxzS7Wcdj)
+https://watch.screencastify.com/v/ePyiqSPFWmBjxzS7Wcdj
 
 ## Photos<br>
 ![Screen Shot](https://github.com/jlhickey/My-React-Portfolio/blob/main/pic1.jpg)

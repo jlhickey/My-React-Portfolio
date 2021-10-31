@@ -30,6 +30,6 @@ https://watch.screencastify.com/v/ePyiqSPFWmBjxzS7Wcdj
 
 ## REPOSITORIES
 
-- Project Repo https://github.com/jlhickey/My-React-Portfolio
+- Project Repo  https://jlhickey.github.io/My-React-Portfolio/
 - GitHub https://github.com/jlhickey  
 - Heroku https://tremendous-puddles.herokuapp.com/

@@ -5,9 +5,10 @@
 
 ## Table of Contents
   1. [User Story](#UserStory)
-  2. [Mock up](#Mockup)
-  3. [Photos](#Photos)
-  4. [My Repositories](#MyRepositories)
+  2. [Tools Used](#ToolsUsed)
+  3. [Mock up](#Mockup)
+  4. [Photos](#Photos)
+  5. [My Repositories](#MyRepositories)
 
 
 ## User Story
@@ -15,17 +16,22 @@
 I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
 
-## Installation
-The app used to run  
-*  React
+## Tools Used
+
+![Language](https://img.shields.io/badge/Express-blue.svg "Language Badge")
+![Language](https://img.shields.io/badge/REACT-yellow.svg "Language Badge")
+![Language](https://img.shields.io/badge/CSS-purple.svg "Language Badge")
+![Language](https://img.shields.io/badge/HTML-red.svg "Language Badge")
+![Language](https://img.shields.io/badge/Bootstrap-green.svg "Language Badge")
+
  
 
 ## Mock up  
-https://watch.screencastify.com/v/ePyiqSPFWmBjxzS7Wcdj
+![watch]://watch.screencastify.com/v/ePyiqSPFWmBjxzS7Wcdj
 
 ## Photos<br>
- https://github.com/jlhickey/My-React-Portfolio/blob/main/pic1.jpg<br>
- https://github.com/jlhickey/My-React-Portfolio/blob/main/pic2.jpg 
+![Screen Shot] https://github.com/jlhickey/My-React-Portfolio/blob/main/pic1.jpg<br>
+![Screen shot] https://github.com/jlhickey/My-React-Portfolio/blob/main/pic2.jpg 
 
 
 ## REPOSITORIES
